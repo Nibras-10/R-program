@@ -1,0 +1,11 @@
+Age,Salary,WorkHours,JobSatisfaction,WorkLifeBalance,Attrition
+25,50,40,High,Good,No
+30,60,45,Medium,Average,No
+22,40,50,Low,Poor,Yes
+35,80,38,High,Good,No
+28,55,42,Medium,Good,No
+45,100,35,High,Excellent,No
+23,45,55,Low,Poor,Yes
+40,90,40,Medium,Good,No
+29,50,48,Medium,Average,Yes
+38,70,41,High,Good,No
