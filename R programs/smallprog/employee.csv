@@ -1,0 +1,9 @@
+Emp_ID,Name,Department,Date_of_Joining,Monthly_Salary,Performance_Score,duration,rating,High_performer
+1,Alice,Finance,2016-05-10,50000,85,8,Good,1
+2,Bob,HR,2019-03-15,45000,92,6,Outstanding,1
+3,Charlie,Finance,2017-07-01,55000,85,7,Good,1
+4,Diana,IT,2020-01-01,60000,70,5,Average,0
+5,Eve,Marketing,2018-11-12,48000,60,6,Average,0
+6,Frank,Finance,2015-04-22,53000,85,9,Good,1
+7,Grace,HR,2016-08-30,47000,88,8,Good,1
+8,Hank,IT,2017-09-09,62000,55,7,Poor,0
